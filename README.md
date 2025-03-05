@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhooti20&label=Profile%20views&color=0e75b6&style=flat" alt="anubhooti20" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **Django Projects**
 
-- 🌱 I’m currently learning **MERN Stack technologies**
+- 🌱 I’m currently learning **Django rest framework**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-navy-pi.vercel.app/](https://portfolio-website-navy-pi.vercel.app/)
 
